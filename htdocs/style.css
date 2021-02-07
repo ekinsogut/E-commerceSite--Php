@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    background-color: rgb(218, 223, 233);
+}
+
+form {
+    display: inline-block;
+    text-align: center;
+}
+
+div.a {
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+}
